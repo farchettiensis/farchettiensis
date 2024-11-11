@@ -2,7 +2,11 @@
 
 ### About me
 
-I'm a junior full-stack software developer. My expertise includes JS, TS, Angular, and Java. Currently studying Systems Analysis and Development (undergraduate).
+I'm a full-stack software developer with nearly 2 years of professional experience. My expertise includes Node.js (Express and Nest), Angular, JavaScript, TypeScript, and Java (versions 8, 11, 17+) using Spring Boot, Spring Web, Spring Security, and Spring MVC. I have extensive experience in both front-end and back-end development, including integration with external APIs and working with ORMs like Django ORM, TypeORM, and Hibernate (JPA).
+
+Additionally, I have knowledge in Python, Django, Bash, Linux, Git and Docker. I hold a C2 English proficiency certification (CPE) from the University of Cambridge and have B2 proficiency in French and Spanish.
+
+Currently studying Systems Analysis and Development (undergraduate degree).
  
 ##
 <br>
@@ -35,8 +39,6 @@ I'm a junior full-stack software developer. My expertise includes JS, TS, Angula
 
 <div>
   <h3>Links</h3><br>
-
-  <a href="mailto:fba753@gmail.com" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/fernando-belmonte-archetti-817689247/" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
