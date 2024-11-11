@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm a full-stack software developer with nearly 2 years of professional experience. My expertise includes Node.js (Express and Nest), Angular, JavaScript, TypeScript, and Java (versions 8, 11, 17+) using Spring Boot, Spring Web, Spring Security, and Spring MVC. I have extensive experience in both front-end and back-end development, including integration with external APIs and working with ORMs like Django ORM, TypeORM, and Hibernate (JPA).
+I'm a full-stack software developer with nearly 2 years of professional experience. My expertise includes Node.js (Express and Nest), Angular, JavaScript, TypeScript, and Java (versions 8, 11, 17+) using Spring Boot, Spring Web, Spring Security, Spring MVC etc., as well as tools such as Maven. I have extensive experience in both front-end and back-end development, including integration with external APIs and working with ORMs like Django ORM, TypeORM, and Hibernate (JPA).
 
 Additionally, I have knowledge in Python, Django, Bash, Linux, Git and Docker. I hold a C2 English proficiency certification (CPE) from the University of Cambridge and have B2 proficiency in French and Spanish.
 
