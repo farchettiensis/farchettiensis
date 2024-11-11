@@ -4,7 +4,7 @@
 
 I'm a full-stack software developer with nearly 2 years of professional experience. My expertise includes Node.js (Express and Nest), Angular, JavaScript, TypeScript, and Java (versions 8, 11, 17+) using Spring Boot, Spring Web, Spring Security, Spring MVC etc., as well as tools such as Maven. I have extensive experience in both front-end and back-end development, including integration with external APIs and working with ORMs like Django ORM, TypeORM, and Hibernate (JPA).
 
-Additionally, I have knowledge in Python, Django, Bash, Linux, Git and Docker. I hold a C2 English proficiency certification (CPE) from the University of Cambridge and have B2 proficiency in French and Spanish.
+Additionally, I have knowledge in Python, Django, Bash, Linux, Git and Docker.
 
 Currently studying Systems Analysis and Development (undergraduate degree).
  
@@ -32,7 +32,6 @@ Currently studying Systems Analysis and Development (undergraduate degree).
   <img align="center" alt="Typescript Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="NodeJS Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="Git Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Github Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </div>
 
 ***
