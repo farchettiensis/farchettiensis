@@ -1,44 +1,52 @@
 # Hey there!
 
-### About me
+### About Me
 
-I'm a full-stack software developer with nearly 2 years of professional experience. My expertise includes Node.js (Express and Nest), Angular, JavaScript, TypeScript, and Java (versions 8, 11, 17+) using Spring Boot, Spring Web, Spring Security, Spring MVC etc., as well as tools such as Maven. I have extensive experience in both front-end and back-end development, including integration with external APIs and working with ORMs like Django ORM, TypeORM, and Hibernate (JPA).
+I'm a full-stack software developer with nearly 2 years of professional experience as a developer. My expertise includes Node.js (Express and Nest), Angular, JavaScript, TypeScript, and Java (versions 8, 11, 17+), utilizing frameworks like Spring Boot, Spring Web, Spring Security, and Spring MVC, as well as tools such as Maven. I have extensive experience in both front-end and back-end development, including integration with external APIs and working with ORMs like Django ORM, TypeORM, and Hibernate (JPA).
 
-Additionally, I have knowledge in Python, Django, Bash, Linux, Git and Docker.
+Additionally, I have experience with Python, Django, Bash scripting, Linux (various distributions), Git, and Docker.
 
-Currently studying Systems Analysis and Development (undergraduate degree).
- 
-##
-<br>
-<div>
-  <a href="https://github.com/farchettiensis">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=farchettiensis&count_private=true&show_icons=true&theme=radical"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farchettiensis&langs_count=10&layout=compact&theme=radical"/>
-</div>
+Currently pursuing an undergraduate degree in Systems Analysis and Development.
 
+Fluent in English (C2 certification from the University of Cambridge), with intermediate proficiency in French (B2) and Spanish (B1).
 
-<div style="display: inline_block">
-  <h3>Skills</h3><br>
-  <img align="center" alt="Java Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img align="center" alt="Spring Icon" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
-  <img align="center" alt="Linux Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img align="center" alt="Docker Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img align="center" alt="PostgreSQL Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" alt="Angular Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-  <img align="center" alt="Bootstrap Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img align="center" alt="CSS3 Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="HTML5 Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Javascript Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Typescript Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="NodeJS Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Git Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</div>
+---
 
-***
+| ![farchettiensis GitHub stats](https://github-readme-stats.vercel.app/api?username=farchettiensis&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farchettiensis&hide_progress=true&theme=transparent&hide_border=true&cache_seconds=86400) |
+| ------------- | ------------- |
 
-<div>
-  <h3>Links</h3><br>
-  <a href="https://www.linkedin.com/in/fernando-belmonte-archetti-817689247/" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+### Skills
 
-##
+**Programming Languages:**
+
+<p align="left">
+  <img alt="Java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img alt="JavaScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="TypeScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img alt="SQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+ <img alt="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+</p>
+
+**Frameworks and Libraries:**
+
+<p align="left">
+  <img alt="Spring" width="40" height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
+  <img alt="Angular" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img alt="Django" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+  <img alt="Nest" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
+</p>
+
+**Tools and Platforms:**
+
+<p align="left">
+  <img alt="Linux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img alt="Docker" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</p>
+
+---
+
+### Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-belmonte-archetti-817689247/)
+
