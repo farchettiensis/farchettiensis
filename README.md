@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a full-stack software developer with nearly 2 years of professional experience as a developer. My expertise includes Node.js (Express and Nest), Angular, JavaScript, TypeScript, and Java (versions 8, 11, 17+), utilizing frameworks like Spring Boot, Spring Web, Spring Security, and Spring MVC, as well as tools such as Maven. I have extensive experience in both front-end and back-end development, including integration with external APIs and working with ORMs like Django ORM, TypeORM, and Hibernate (JPA).
+I'm a full-stack software developer with nearly 2 years of professional experience as a developer. My expertise includes Node.js (Express and Nest), Angular, JavaScript, TypeScript, and Java (versions 8, 11, 17+), utilizing frameworks like Spring Boot, Spring Web, Spring Security, and Spring MVC, as well as tools such as Maven and Gradle. I have extensive experience in both front-end and back-end development, including integration with external APIs and working with ORMs like Django ORM, TypeORM, and Hibernate (JPA).
 
 Additionally, I have experience with Python, Django, Bash scripting, Linux (various distributions), Git, and Docker.
 
@@ -14,6 +14,10 @@ Fluent in English (C2 certification from the University of Cambridge), with inte
 
 | ![farchettiensis GitHub stats](https://github-readme-stats.vercel.app/api?username=farchettiensis&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farchettiensis&hide_progress=true&theme=transparent&hide_border=true&cache_seconds=86400) |
 | ------------- | ------------- |
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farchettiensis&theme=transparent&hide_border=false)
+
+
 
 ### Skills
 
