@@ -6,7 +6,7 @@ Hello! I'm Fernando, I'm a software developer from Brazil who loves coding and l
 
 Outside of work, I truly love games, movies, Star Trek (!) and reading.
 
-I'm open to collabs, opportunities, or really just chatting! Feel free to reach out on Discord and LinkedIn - that's where you'll find me most often. You're most welcome to do so!
+I'm open to collabs, opportunities, or really just chatting! Feel free to reach out on Discord or LinkedIn - that's where you'll find me most often. You're most welcome to do so!
 
 <img alt="Data Star Trek" height="200" width="250" src="35383c72f0942bc10549ed06a2753e86.gif">
 
