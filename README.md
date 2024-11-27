@@ -17,7 +17,7 @@ Fluent in English (C2 certification from the University of Cambridge), with inte
 
 
 
-### Skills
+## Skills
 
 **Programming Languages:**
 
@@ -36,6 +36,7 @@ Fluent in English (C2 certification from the University of Cambridge), with inte
   <img alt="Angular" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img alt="Django" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
   <img alt="Nest" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
+  <img Alt="Express" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
 </p>
 
 **Tools and Platforms:**
@@ -55,4 +56,9 @@ Fluent in English (C2 certification from the University of Cambridge), with inte
 </p>
 
 
+## ☕ Contact
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-belmonte-archetti-817689247)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/252f10c83610ebca1a059c0bae8255eb)
+
+![Visitor Count](https://profile-counter.glitch.me/farchettiensis/count.svg)
