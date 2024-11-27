@@ -48,10 +48,11 @@ Fluent in English (C2 certification from the University of Cambridge), with inte
 
 <p align='center'>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://farchettiensis.github.io/farchettiensis/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://farchettiensis.github.io/farchettiensis/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://farchettiensis.github.io/farchettiensis/github-contribution-grid-snake.svg" />
     <img alt="GitHub Snake Animation" src="https://farchettiensis.github.io/farchettiensis/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 
 
