@@ -10,7 +10,7 @@ I'm open to collabs, opportunities, or really just chatting! Feel free to reach 
 
 <img alt="Data Star Trek" height="200" width="250" src="35383c72f0942bc10549ed06a2753e86.gif">
 
-## Activity
+## Activity :zap:
 > Some statistics from my GitHub.
 
 | ![farchettiensis GitHub stats](https://github-readme-stats.vercel.app/api?username=farchettiensis&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farchettiensis&hide_progress=true&theme=transparent&hide_border=true&cache_seconds=86400) |
