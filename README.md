@@ -6,9 +6,9 @@
 
 Hello! I'm Fernando, I'm a software developer from Brazil who loves coding and learning stuff deeply! My LinkedIn has more info if you're interested in learning more about me.
 
-Outside of work, I truly love games, movies, Star Trek (!) and reading.
+Outside of work, I truly love games, movies, **Star Trek** (!) and reading.
 
-I'm open to collabs, opportunities, or really just chatting! Feel free to reach out on Discord and LinkedIn - that's where you'll find me more often. You're most welcome to do so!
+I'm open to collabs, opportunities, or really just chatting! Feel free to reach out on Discord and LinkedIn - that's where you'll find me most often. You're most welcome to do so!
 
 ## Activity
 > Some statistics from my GitHub.
