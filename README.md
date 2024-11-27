@@ -1,14 +1,14 @@
 # Hey there 🖖
 
-<img alt="Data Star Trek" height="80" src="https://media.tenor.com/MYg54zgWfUgAAAAC/star-trek-the-next-generation-data.gif">
-
 ## Welcome to my GitHub profile!
 
 Hello! I'm Fernando, I'm a software developer from Brazil who loves coding and learning stuff deeply! My LinkedIn has more info if you're interested in learning more about me.
 
-Outside of work, I truly love games, movies, **Star Trek** (!) and reading.
+Outside of work, I truly love games, movies, Star Trek (!) and reading.
 
 I'm open to collabs, opportunities, or really just chatting! Feel free to reach out on Discord and LinkedIn - that's where you'll find me most often. You're most welcome to do so!
+
+<img alt="Data Star Trek" height="200" width="250" src="35383c72f0942bc10549ed06a2753e86.gif">
 
 ## Activity
 > Some statistics from my GitHub.
