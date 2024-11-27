@@ -28,6 +28,9 @@ I'm open to collabs, opportunities, or really just chatting! Feel free to reach 
   </picture>
 </p>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <div align="center">
   
 ![Visitor Count](https://profile-counter.glitch.me/farchettiensis/count.svg)
