@@ -28,6 +28,9 @@ I'm open to collabs, opportunities, or really just chatting! Feel free to reach 
   </picture>
 </p>
 
+---
+
+### Recent Activity
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#3](https://github.com/farchettiensis/lms-sef/issues/3) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
 2. 🎉 Merged PR [#7](https://github.com/farchettiensis/lms-sef/pull/7) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
@@ -35,6 +38,8 @@ I'm open to collabs, opportunities, or really just chatting! Feel free to reach 
 4. 💪 Opened PR [#12](https://github.com/marceltanuri/ada-1172-spring-boot-with-junit/pull/12) in [marceltanuri/ada-1172-spring-boot-with-junit](https://github.com/marceltanuri/ada-1172-spring-boot-with-junit)
 5. ❌ Closed PR [#7](https://github.com/marceltanuri/ada-1172-spring-boot-with-junit/pull/7) in [marceltanuri/ada-1172-spring-boot-with-junit](https://github.com/marceltanuri/ada-1172-spring-boot-with-junit)
 <!--END_SECTION:activity-->
+
+---
 
 <div align="center">
   
