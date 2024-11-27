@@ -1,14 +1,17 @@
-# Hey there!
+# Hey there 🖖
 
-I'm a full-stack software developer with nearly 2 years of professional experience as a developer. My expertise includes Node.js (Express and Nest), Angular, JavaScript, TypeScript, and Java (versions 8, 11, 17+), utilizing frameworks like Spring Boot, Spring Web, Spring Security, and Spring MVC, as well as tools such as Maven and Gradle. I have extensive experience in both front-end and back-end development, including integration with external APIs and working with ORMs like Django ORM, TypeORM, and Hibernate (JPA).
+<img alt="Data Star Trek" height="80" src="https://media.tenor.com/MYg54zgWfUgAAAAC/star-trek-the-next-generation-data.gif">
 
-Additionally, I have experience with Python, Django, Bash scripting, Linux (various distributions), Git, and Docker.
+## Welcome to my GitHub profile!
 
-Currently pursuing an undergraduate degree in Systems Analysis and Development.
+Hello! I'm Fernando, I'm a software developer from Brazil who loves coding and learning stuff deeply! My LinkedIn has more info if you're interested in learning more about me.
 
-Fluent in English (C2 certification from the University of Cambridge), with intermediate proficiency in French (B2) and Spanish (B1).
+Outside of work, I truly love games, movies, Star Trek (!) and reading.
 
----
+I'm open to collabs, opportunities, or really just chatting! Feel free to reach out on Discord and LinkedIn - that's where you'll find me more often. You're most welcome to do so!
+
+## Activity
+> Some statistics from my GitHub.
 
 | ![farchettiensis GitHub stats](https://github-readme-stats.vercel.app/api?username=farchettiensis&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farchettiensis&hide_progress=true&theme=transparent&hide_border=true&cache_seconds=86400) |
 | ------------- | ------------- |
@@ -32,6 +35,8 @@ Fluent in English (C2 certification from the University of Cambridge), with inte
 </div>
 
 ## Skills
+
+> A few of the technologies I worked with.
 
 **Languages**
 
