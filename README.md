@@ -30,7 +30,7 @@ I'm open to collabs, opportunities, or really just chatting! Feel free to reach 
 
 ---
 
-### Recent Activity
+### Recent Activity ⌛
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#12](https://github.com/farchettiensis/lms-sef/pull/12) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
 2. 💪 Opened PR [#12](https://github.com/farchettiensis/lms-sef/pull/12) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
@@ -47,7 +47,7 @@ I'm open to collabs, opportunities, or really just chatting! Feel free to reach 
 
 </div>
 
-## Skills
+## Skills 📖
 
 > A few of the technologies I worked with.
 
@@ -74,10 +74,11 @@ I'm open to collabs, opportunities, or really just chatting! Feel free to reach 
   <img alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
-## ☕ Contact
+## Contact ☕
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-belmonte-archetti-817689247)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/252f10c83610ebca1a059c0bae8255eb)
+[![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/252f10c83610ebca1a059c0bae8255eb)&nbsp;
+[![Email](https://img.shields.io/badge/Email-8838FF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:fernando.archetti@proton.me)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
