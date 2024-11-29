@@ -32,11 +32,11 @@ I'm open to collabs, opportunities, or really just chatting! Feel free to reach 
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/farchettiensis/lms-sef/issues/8) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
-2. 🔒 Closed issue [#3](https://github.com/farchettiensis/lms-sef/issues/3) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
-3. 🎉 Merged PR [#7](https://github.com/farchettiensis/lms-sef/pull/7) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
-4. 💪 Opened PR [#7](https://github.com/farchettiensis/lms-sef/pull/7) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
-5. 💪 Opened PR [#12](https://github.com/marceltanuri/ada-1172-spring-boot-with-junit/pull/12) in [marceltanuri/ada-1172-spring-boot-with-junit](https://github.com/marceltanuri/ada-1172-spring-boot-with-junit)
+1. 🎉 Merged PR [#12](https://github.com/farchettiensis/lms-sef/pull/12) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
+2. 💪 Opened PR [#12](https://github.com/farchettiensis/lms-sef/pull/12) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
+3. 🎉 Merged PR [#11](https://github.com/farchettiensis/lms-sef/pull/11) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
+4. 💪 Opened PR [#11](https://github.com/farchettiensis/lms-sef/pull/11) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
+5. 🔒 Closed issue [#8](https://github.com/farchettiensis/lms-sef/issues/8) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
 <!--END_SECTION:activity-->
 
 ---
