@@ -32,11 +32,11 @@ I'm open to collabs, opportunities, or really just chatting! Feel free to reach 
 
 ### Recent Activity ⌛
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/victot-exe/movies-api/pull/9) in [victot-exe/movies-api](https://github.com/victot-exe/movies-api)
-2. 🎉 Merged PR [#12](https://github.com/farchettiensis/lms-sef/pull/12) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
-3. 💪 Opened PR [#12](https://github.com/farchettiensis/lms-sef/pull/12) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
-4. 🎉 Merged PR [#11](https://github.com/farchettiensis/lms-sef/pull/11) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
-5. 💪 Opened PR [#11](https://github.com/farchettiensis/lms-sef/pull/11) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
+1. 🔒 Closed issue [#4](https://github.com/farchettiensis/lms-sef/issues/4) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
+2. 🎉 Merged PR [#13](https://github.com/farchettiensis/lms-sef/pull/13) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
+3. 💪 Opened PR [#13](https://github.com/farchettiensis/lms-sef/pull/13) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
+4. 💪 Opened PR [#9](https://github.com/victot-exe/movies-api/pull/9) in [victot-exe/movies-api](https://github.com/victot-exe/movies-api)
+5. 🎉 Merged PR [#12](https://github.com/farchettiensis/lms-sef/pull/12) in [farchettiensis/lms-sef](https://github.com/farchettiensis/lms-sef)
 <!--END_SECTION:activity-->
 
 ---
