@@ -30,17 +30,6 @@ I'm open to collabs, opportunities, or really just chatting! Feel free to reach 
 
 ---
 
-### Recent Activity ⌛
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/victot-exe/movies-api/pull/18) in [victot-exe/movies-api](https://github.com/victot-exe/movies-api)
-2. 💪 Opened PR [#18](https://github.com/victot-exe/movies-api/pull/18) in [victot-exe/movies-api](https://github.com/victot-exe/movies-api)
-3. 🎉 Merged PR [#17](https://github.com/victot-exe/movies-api/pull/17) in [victot-exe/movies-api](https://github.com/victot-exe/movies-api)
-4. 💪 Opened PR [#17](https://github.com/victot-exe/movies-api/pull/17) in [victot-exe/movies-api](https://github.com/victot-exe/movies-api)
-5. 🎉 Merged PR [#14](https://github.com/victot-exe/movies-api/pull/14) in [victot-exe/movies-api](https://github.com/victot-exe/movies-api)
-<!--END_SECTION:activity-->
-
----
-
 <div align="center">
   
 ![Visitor Count](https://profile-counter.glitch.me/farchettiensis/count.svg)
