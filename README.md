@@ -30,12 +30,6 @@ I'm open to collabs, opportunities, or really just chatting! Feel free to reach 
 
 ---
 
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/farchettiensis/count.svg)
-
-</div>
-
 ## Skills 📖
 
 > A few of the technologies I worked with.
