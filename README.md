@@ -4,8 +4,6 @@
 
 Hello! I'm Fernando, I'm a software developer from Brazil who loves coding and learning stuff deeply! My LinkedIn has more info if you're interested in learning more about me.
 
-Outside of work, I truly love games, movies, Star Trek, and reading.
-
 I'm open to collabs, opportunities, or really just chatting! Feel free to reach out on Discord or LinkedIn - that's where you'll find me most often. You're most welcome to do so!
 
 <img alt="Data Star Trek" height="200" width="250" src="35383c72f0942bc10549ed06a2753e86.gif">
@@ -30,32 +28,40 @@ I'm open to collabs, opportunities, or really just chatting! Feel free to reach 
 
 ---
 
-## Skills 📖
+## 🛠 Tech I Work With
 
-> A few of the technologies I worked with.
-
-**Languages**
-
+### **Core Stack**
 <p align="left">
-  <img alt="Java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img alt="JavaScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="Ruby" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
+  <img alt="Rails" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg"/>
+  <img alt="Node.js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="TypeScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="SQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
- <img alt="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-</p>
+  <img alt="JavaScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-**Technologies**
+  <img alt="React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Next.js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img alt="Tailwind CSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 
-<p align="left">
-  <img alt="Spring" width="40" height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
-  <img alt="Angular" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-  <img alt="Django" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
-  <img alt="Nest" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
-  <img Alt="Node" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Linux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img alt="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="GraphQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
+
   <img alt="Docker" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img alt="Linux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
+
+---
+
+### **Testing**
+
+`RSpec` · `Jest` · `React Testing Library` · `Playwright` · `node:test`
+
+---
+
+### **Previously worked with**
+
+`Java (Spring Boot)` · `Python (Django)` · `Angular` · `Hibernate / JPA` · `TypeORM`  
+`MySQL` · `SQLite` · `JasperReports` · `Apache HTTPD` · `NestJS`
 
 ## Contact ☕
 
