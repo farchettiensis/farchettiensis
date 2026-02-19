@@ -51,7 +51,7 @@ I'm open to collabs, opportunities, or really just chatting! Feel free to reach 
 
 ### **Testing**
 
-`RSpec` · `Jest` · `React Testing Library` · `Playwright` · `node:test`
+`RSpec` · `Jest` · `Vitest` . `React Testing Library` · `Playwright` · `node:test`
 
 ---
 
@@ -63,7 +63,7 @@ I'm open to collabs, opportunities, or really just chatting! Feel free to reach 
 ## Contact ☕
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-belmonte-archetti-817689247)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/cestdimanche)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/fernando.belmonte)&nbsp;
 [![Email](https://img.shields.io/badge/Email-8838FF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:fernando.archetti@proton.me)
 
 <p align="center">
